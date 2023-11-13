@@ -1,2 +1,4 @@
 # GitMasteryChallenge
 #The purpose of the Git exercise is to provide information on how to learn and understand Git. This repository offers a step-by-step guide, to help me grasp the fundamental concepts of Git, such as creating and managing repositories, branching and merging, committing changes, and collaborating with others. By following this excercise, I gain the necessary knowledge and skills to effectively utilize Git in their software development projects, enabling me to track changes, coordinate work with teammates, and maintain a well-organized and efficient workflow.
+
+Created new branch named feature-branch
