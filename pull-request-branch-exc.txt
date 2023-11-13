@@ -4,4 +4,4 @@ The objective this branch to learn how pull request work from repo
 
 The content is created to test pull request functionality
 
-This content is created based on the issue created by a user. A link is shared to equip the requester on the pull request feature
+This content is created based on the issue created by a user. A link is shared to equip the issue requester on how to use pull request feature
