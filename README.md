@@ -3,4 +3,6 @@
 
 Created new branch named feature-branch
 
-The branch created is to learn how to create branches and how to manage and merge it with the main branch after successfull compltion of the branch purpose
+The branch created is to learn how to create branches and how to manage and merge it with the main branch after successfull compltion of the branch purpose.
+
+This is last commit 
